@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.space_x_rockets">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="space_x_rockets"
         android:name="${applicationName}"
